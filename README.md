@@ -1,8 +1,8 @@
-# 👋 Salut, je suis Louis-Hadrien Denis !
+# 👋 Bonjour, je suis Louis-Hadrien
 
-💻 Développeur passionné spécialisé en **Java, C, JavaScript & Python**  
+💻 Développeur spécialisé en **Java, C, JavaScript & Python**  
 🚀 En dernière année d'école d'ingénieur, à la recherche d'un **stage en développement logiciel**  
-📊 Intéressé par **le Big Data, les systèmes distribués et la blockchain**  
+📊 Intéressé par **le Big Data, le cloud computing et l'intelligence artificielle**  
 🌎 Disponible pour travailler en **France et à l'international**  
 
 ---
@@ -11,21 +11,18 @@
 - 💻 **Langages :** Java, C, JavaScript, Python, Dart  
 - 🌐 **Web :** Angular, Node.js, React  
 - ☁️ **Cloud :** AWS, Terraform, Docker, Kubernetes  
-- 📚 **Base de données :** PostgreSQL, SQLite, Firebase  
+- 📚 **Base de données :** SQLite, Firebase  
 
 ---
 
 ## 📌 Projets récents :
-🔹 **[Jeu du Pendu en Java](https://github.com/lhdenis/Pendu)** → Un jeu interactif avec SQLite et JDBC  
-🔹 **[Application mobile en Flutter](https://github.com/lhdenis/mon-app)** → Gestion de sécurité civile en temps réel  
-🔹 **[Site de suivi de tokens](https://github.com/lhdenis/token-tracker)** → Suivi de crypto-monnaies basé sur Ethereum  
+🔹 **[Jeu du Pendu en Java](https://github.com/lhdenis/Pendu)** → Un jeu interactif avec SQLite et JDBC   
 
 ---
 
 ## 📫 Me contacter :
-📩 **Email :** [ton.email@example.com](mailto:ton.email@example.com)  
-🔗 **LinkedIn :** [linkedin.com/in/lhdenis](https://linkedin.com/in/lhdenis)  
-🐦 **Twitter :** [@lhdenis](https://twitter.com/lhdenis)  
+📩 **Email :** [lhdenis@bordeaux-inp.fr](mailto:ton.email@example.com)  
+🔗 **LinkedIn :** [linkedin.com/in/lhdenis](https://linkedin.com/in/lhdenis)    
 
 ---
 
