@@ -17,7 +17,7 @@
 
 ## 📌 Projets récents :
 🔹 **[Jeu du Pendu en Java](https://github.com/lhdenis/Pendu)** → Un jeu interactif avec SQLite et JDBC   
-
+🔹 **[Mastermind](https://github.com/lhdenis/Mastermind)**→ Un jeu interactif depuis le terminal
 ---
 
 ## 📫 Me contacter :
